@@ -3,11 +3,10 @@ ERP App
 Business Application
 
 Project Manager : Ahmed H
-
-https://www.facebook.com/BusinessPlus-1807711432816244/
+FaceBook website :https://www.facebook.com/BusinessPlus-1807711432816244/
 
 Description : BusinessPlus is ERP sotfware have two versions. ASP MVC and SQL server anther version Java EE and MySql
- web site :https://businessplusblog.wordpress.com/
+ Company web site :https://businessplusblog.wordpress.com/
  
 
 ASPMVC version only :
