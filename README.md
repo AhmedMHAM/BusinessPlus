@@ -11,12 +11,14 @@ Company web site :https://businessplusblog.wordpress.com/
 
  
 
-ASP MVC version only :
+ASP MVC version:
 change webconfig file:
 <add name="ERPBusinessPlus" connectionString="data source=DELL-PC\SQLEXPRESS;initial catalog=ERPBusinessPlus;integrated security=True;" />
 
 Java vesion :
 
 Licensing
+__________
 Copyright 2016 Ahmed H
+
 This work is licensed under Apache License Version 2.0.
