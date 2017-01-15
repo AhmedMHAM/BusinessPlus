@@ -19,8 +19,8 @@ change webconfig file:
 
 Java vesion :
 
-# Licensing
+# Licensing :
 __________
-Copyright 2016 Ahmed H
+Copyright 2016 Ahmed H.
 
-This work is licensed under Apache License Version 2.0.
+licensed under Apache License Version 2
