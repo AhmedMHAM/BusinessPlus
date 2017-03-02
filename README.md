@@ -21,6 +21,6 @@ Java vesion :
 
 # Licensing :
 __________
-Copyright 2016 Ahmed H.
+Copyright 2016 Business Plus Co.
 
-licensed under Apache License Version 2
+licensed under Apache License Version 2.
