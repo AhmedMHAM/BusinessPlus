@@ -7,7 +7,7 @@ FaceBook website :
 
 Description : BusinessPlus is ERP software
 
-Company web site :https://businessplusblog.wordpress.com/
+web site :https://sites.google.com/view/businessplus-rd/home
 
  
 
